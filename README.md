@@ -1,8 +1,9 @@
 # Diomede-Manufaturing-Capital-Investment-Strategy-Analysis 
-(In- Progress)
-Strategic FDI and CapEx simulation for Diomede Global Manufacturing. Analyzes market entry, investment timing, risk, and product strategy across Southeast Asia using BI tools, scenario modeling, and global strategy frameworks
+**(In- Progress)**
 
-# 🌍 Diomede Global Manufacturing – Capital Investment & FDI Strategy Analysis
+Strategic FDI and CapEx simulation for Diomede Global Manufacturing. Analyzes market entry, investment timing, risk, budgeting and resource allocation; and product strategy across Southeast Asia using BI tools, scenario modeling, and global strategy frameworks
+
+# Diomede Global Manufacturing – Capital Investment & FDI Strategy Analysis
 
 This project simulates a high-stakes strategic investment analysis for **Diomede Global Manufacturing**, a fictional U.S.-based company exploring **expansion into Southeast Asia**. The analysis mirrors real-world Foreign Direct Investment (FDI) evaluation and CapEx planning, helping guide decisions around **market entry, timing, risk, and strategy**.
 
@@ -56,6 +57,7 @@ This analysis explores **FDI opportunities in Southeast Asia**, specifically:
 - SWOT & PESTEL Analysis  
 - Strategic Risk Scoring / Heatmaps  
 - PowerPoint Summary Deck (Investor-style Briefing)
+- Investment Valuation Models – including **NPV**, **IRR**, **Payback Period**, and **Discounted Cash Flow (DCF)** to assess financial viability and prioritize capital deployment options
 
 ---
 
