@@ -43,7 +43,8 @@ This analysis explores **FDI opportunities in Southeast Asia**, specifically:
 3. **Timing & Scale** – Recommend when and how to scale investment (pilot vs. phased)  
 4. **Product/Service Mix** – Determine what Diomede should produce or sell locally  
 5. **Risk Analysis** – Assess political, regulatory, reputational, and liquidity risks  
-6. **Strategic Fit** – Align all recommendations to Diomede’s long-term goals  
+6. **Strategic Fit** – Align all recommendations to Diomede’s long-term goals
+7. **Budgeting & Resource Allocation** – Analyze projected capital requirements, operating costs, and funding structures to ensure investment decisions are financially viable and aligned with organizational priorities  
 
 ---
 
