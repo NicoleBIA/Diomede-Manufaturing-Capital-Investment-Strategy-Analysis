@@ -41,7 +41,7 @@ This analysis explores **FDI opportunities in Southeast Asia**, specifically:
 ## Project Objectives
 
 1. **Market Selection** – Identify the most strategically aligned market(s) for expansion  
-2. **Entry Strategy** – Evaluate Greenfield investment, Joint Ventures, or Licensing models  
+2. **Entry Strategy** – Evaluate Greenfield investment, Joint Ventures, Strategic Partnership, or Licensing models  
 3. **Timing & Scale** – Recommend when and how to scale investment (pilot vs. phased)  
 4. **Product/Service Mix** – Determine what Diomede should produce or sell locally  
 5. **Risk Analysis** – Assess political, regulatory, reputational, and liquidity risks  
